@@ -1,6 +1,6 @@
 # Github Desktop Commit Workflow
 I have my personal commit workflow using GitHub Desktop.
-The catch is that, I'm not installing Git. 
+The catch is that I'm not installing Git. 
 You don't need Git to use GitHub Desktop.
 But you need a technique for you to have your commits as
 verified.
@@ -41,7 +41,7 @@ I already explained this above.
 using the `tab` key but if I need to make 
 a very important summary description I will do so.
 
-6. Once it is comitted, I will publish the branch.
+6. Once it is committed, I will publish the branch.
 This is an unverified commit on GitHub.
 Then the branch will pop up on GitHub. I'll review 
 it and make a PR then merge. This is a verified
