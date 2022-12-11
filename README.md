@@ -52,6 +52,4 @@ revert it on GitHub.
 7. I will switch to master leaving the changes on that
 branch. Then I will fetch again and pull those recent
 changes. Done. You have the synced local project
-same for GitHub. Start working on code again.
-
-It might be a longer route, but it's worth it.
+from GitHub. Start working on code again.
