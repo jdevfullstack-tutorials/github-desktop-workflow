@@ -9,7 +9,7 @@ I'm actually into branches because I feel
 I can group my commits into related features 
 or bug fixes.
 
-My pattern of naming also is the date and 
+My pattern of naming is the `date` and 
 the count commit which I call `sprint`, so
 this is an example of my branches in a day
 
