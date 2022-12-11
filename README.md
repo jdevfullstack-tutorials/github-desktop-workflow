@@ -37,9 +37,9 @@ new commits left on the default branch.
 the date and the count of the commit.
 I already explained this above.
 
-5. I can get the commit description by 
+5. I can get the `commit summary` by 
 using the `tab` key but if I need to make 
-a very important summary description I will do so.
+a very important summary I will manually do so.
 
 6. Once it is committed, I will publish the branch.
 This is an unverified commit on GitHub.
