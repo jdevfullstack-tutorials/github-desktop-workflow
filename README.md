@@ -1,4 +1,4 @@
-# Github Desktop Commit Workflow
+# My Github Desktop Commit Workflow
 I have my personal commit workflow using GitHub Desktop.
 The catch is that I'm not installing Git. 
 You don't need Git to use GitHub Desktop.
