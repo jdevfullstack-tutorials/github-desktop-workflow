@@ -29,7 +29,7 @@ but also in my company's projects.
 
 3. When it's time to commit it, don't
 commit it on the default branch.
-Make a branch instead and bring the 
+I'll make a branch instead and bring the 
 changes to it, so there will be no 
 new commits left on the default branch.
 
