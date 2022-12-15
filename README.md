@@ -27,7 +27,7 @@ but also in my company's projects.
 
 2. then start coding
 
-3. When it's time to commit it, don't
+3. When it's time to commit it, I don't
 commit it on the default branch.
 I'll make a branch instead and bring the 
 changes to it, so there will be no 
