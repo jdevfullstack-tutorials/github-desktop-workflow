@@ -25,7 +25,7 @@ but also in my company's projects.
 ## Steps
 1. I always fetch and pull it.
 
-2. then start coding
+2. Then start coding.
 
 3. When it's time to commit it, I don't
 commit it on the default branch.
@@ -35,7 +35,8 @@ new commits left on the default branch.
 
 4. My way of naming new branches is 
 the date and the count of the commit.
-I already explained this above.
+I already explained this above, like
+`december12-sprint1`.
 
 5. I usually will get the `commit summary` by 
 using the `tab` key but if I need to make 
