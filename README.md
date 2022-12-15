@@ -23,9 +23,9 @@ I'm using this not only in my personal projects
 but also in my company's projects.
 
 ## Steps
-1. Always fetch and pull it.
+1. I always fetch and pull it.
 
-2. Start coding.
+2. then start coding
 
 3. When it's time to commit it, don't
 commit it on the default branch.
@@ -37,7 +37,7 @@ new commits left on the default branch.
 the date and the count of the commit.
 I already explained this above.
 
-5. I can get the `commit summary` by 
+5. I usually will get the `commit summary` by 
 using the `tab` key but if I need to make 
 a very important summary I will manually do so.
 
@@ -46,10 +46,10 @@ This is an unverified commit on GitHub.
 Then the branch will pop up on GitHub. I'll review 
 it and make a PR then merge. This is a verified
 commit now. This is clean actually. When it's not 
-working at the production setup, you can always
+working at the production setup, I can always
 revert it on GitHub.
 
 7. I will switch to master leaving the changes on that
 branch. Then I will fetch again and pull those recent
-changes. Done. You have the synced local project
-from GitHub. Start working on code again.
+changes. Done. I now have the synced local project
+from GitHub. I start the next task.
