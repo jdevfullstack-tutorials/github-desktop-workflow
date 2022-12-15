@@ -56,7 +56,7 @@ branch. Then I will fetch again and pull those recent
 changes. Done. I now have the synced local project
 from GitHub. I start the next task.
 
-## Summary
+## GitHub Desktop Workflow Summary
 fetch -> pull -> make changes -> create branch -> switch branch
 -> commit changes to that branch -> publish branch on GitHub
 -> make PR -> merge ( can `revert` when needed) -> switch branch
