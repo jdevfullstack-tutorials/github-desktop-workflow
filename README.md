@@ -34,9 +34,9 @@ changes to it, so there will be no
 new commits left on the default branch.
 
 4. My way of naming new branches is 
-the date and the count of the commit.
-I already explained this above, like
-`december12-sprint1`.
+the date and the count of the commit
+like `december12-sprint1`.
+I already explained this above.
 
 5. I usually will get the `commit summary` by 
 using the `tab` key but if I need to make 
