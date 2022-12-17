@@ -54,8 +54,8 @@ revert it on GitHub.
 
 7. I will switch to master leaving the changes on that
 branch. Then I will fetch again and pull those recent
-changes. Done. I now have the synced local project
-from GitHub. I start the next task.
+changes. Done. I now have the synced local project. 
+I start the next task.
 
 ## GitHub Desktop Workflow Summary
 fetch -> pull -> make changes -> create branch -> switch branch
