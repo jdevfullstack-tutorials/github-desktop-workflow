@@ -61,4 +61,4 @@ from GitHub. I start the next task.
 fetch -> pull -> make changes -> create branch -> switch branch
 -> commit changes to that branch -> publish branch on GitHub
 -> make PR -> merge ( can `revert` when needed) -> switch branch
-to default -> fetch -> pull 
+to default -> leave changes on the branch -> fetch -> pull 
