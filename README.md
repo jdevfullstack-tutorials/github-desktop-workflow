@@ -4,7 +4,7 @@ The catch is that I'm not installing Git.
 
 You don't need Git to use GitHub Desktop.
 But you need a technique for you to have your commits as
-verified.
+**verified**.
 
 I'm actually into branches because I feel
 I can group my commits into related features 
