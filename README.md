@@ -11,7 +11,7 @@ I can group my commits into related features
 or bug fixes.
 
 My pattern of naming is the `date` and 
-the count commit which I call `sprint`,
+the `count commit` which I call `sprint`,
 
 this is an example of my branches in a day
 
