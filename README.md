@@ -24,6 +24,14 @@ this is an example of my branches in a day
 I can easily remember the things that happened 
 there.
 
+I call it `sprint` because one, it's the term being used
+in Agile and two, it is a continuous effort sitting
+in front of the computer coding without long breaks, 
+much like a real sprint, because that's the
+nature of coding in itself, or else you will be
+distracted by lot of things and your train of thought
+would be gone from time to time.
+
 I'm using this not only in my personal projects
 but also in my company's projects.
 
